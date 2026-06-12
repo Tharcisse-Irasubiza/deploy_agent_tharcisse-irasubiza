@@ -117,8 +117,7 @@ attendance_tracker_myproject/
 │   ├── assets.csv
 │   └── config.json
 ├── reports/
-│   └── reports.log
-└── image.png
+    └── reports.log
 ```
 
 ---
