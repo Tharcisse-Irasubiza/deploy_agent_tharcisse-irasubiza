@@ -1,4 +1,4 @@
-# Attendance Tracker Project Factory
+#  Automated Project Bootstrapping & Process Management
 
 ## 📦 Setup Instructions
 
